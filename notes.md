@@ -44,4 +44,5 @@ A component in react is a special type of js function
 
 Props are properties like <Card amount="100"> -> props.amount = 100</Card>
 
-Children props are stuff between the component  <div>hello world</div>. "Hello world" is children props
+Children props are stuff between the component  <div>hello world</div>. "Hello world" is children props.
+
