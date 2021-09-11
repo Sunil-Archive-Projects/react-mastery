@@ -46,3 +46,7 @@ Props are properties like <Card amount="100"> -> props.amount = 100</Card>
 
 Children props are stuff between the component  <div>hello world</div>. "Hello world" is children props.
 
+Controlled Component
+2 way binding
+Passing data from child to parent AND parent to child
+Stateless and Stateful Components
